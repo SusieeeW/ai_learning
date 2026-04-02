@@ -1,2 +1,2 @@
 # ai_learning
-AI学习相关产出
+AI learning share doc
